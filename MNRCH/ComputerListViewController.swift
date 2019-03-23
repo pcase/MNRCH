@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ComputerListViewController.swift
 //  MNRCH
 //
 //  Created by Patty Case on 3/22/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ComputerListViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
