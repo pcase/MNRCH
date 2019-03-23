@@ -1,1 +1,2 @@
 # MNRCH
+Fictional company app
